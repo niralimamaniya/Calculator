@@ -1,6 +1,6 @@
 @font-face {
     font-family: Satisfy-Regular;
-    src: url(/Satisfy/Satisfy-Regular.ttf) format(truetype);
+    src: url(./Satisfy/Satisfy-Regular.ttf) format(truetype);
 }
 
 *{
