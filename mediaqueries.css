@@ -1,0 +1,27 @@
+@media screen and (max-width: 1260px) and (min-width: 849px) {
+    .message{
+        margin: 0 4rem 10rem 2rem;
+    }
+}
+@media screen and (max-width: 830px) and (min-width: 652px) {
+    .message{
+        margin: 0 5rem 10rem 2rem;
+    }
+}
+@media screen and (max-width: 651px) and (min-width: 415px) {  
+    .calculator{
+        display: flex;
+        justify-content: center;
+        margin-right: 6rem;
+        float:center;
+        
+    }
+}
+@media screen and (max-width: 415px) and (min-width: 300px) {
+    .calculator{
+        display: flex;
+        justify-content:center;
+        margin: 0 2rem;
+        float:center;   
+    }
+}
